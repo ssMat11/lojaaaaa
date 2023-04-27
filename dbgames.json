@@ -1,0 +1,32 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "produto": "Jogo indie do momento",
+      "descricao": "Descrição do Jogo indie do momento",
+      "foto": "jogo1.PNG",
+      "preco": 59.99
+    },
+    {
+      "id": 2,
+      "produto": "Jogo recomendado pelo site",
+      "descricao": "Descrição do Jogo recomendado pelo site",
+      "foto": "jogo2.PNG",
+      "preco": 199.99
+    },
+    {
+      "id": 3,
+      "produto": "Jogo do Ano",
+      "descricao": "Descrição do Jogo do Ano",
+      "foto": "jogo3.PNG",
+      "preco": 399.99
+    },
+    {
+      "id": 4,
+      "produto": "Jogo Modificado",
+      "descricao": "Descrição do Jogo Modificado",
+      "foto": "jogo1.PNG",
+      "preco": 299.99
+    }
+  ]
+}
